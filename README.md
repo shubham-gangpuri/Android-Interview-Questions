@@ -4,10 +4,11 @@ Putting all questions, i ever faced in android app domain.
 
 
 **** Android :
-1. 
+1. Life cycle of activity with example.
+2. Launch modes in android with practical examples.
 
 **** Data Structure :
-1. 
+1. Find a loop in a linked list and remove it.
 
 **** Design :
 1. Design a simple list with help of retrofit, recyclerview. Implement onitemclick and open another webview to load imageUrl.
