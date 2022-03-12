@@ -4,6 +4,7 @@ Putting all questions, i ever faced in android app domain.
 
 **** Kotlin :
 1. When to use and not to use inline functions?
+
 Ans : 
 You can inline when all functional type parameters are called directly or passed to other inline function
 You should inline when ^ is the case.
