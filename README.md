@@ -25,3 +25,4 @@ Another use case is reified type parameters, which require you to use inline
 1. Design a simple list with help of retrofit, recyclerview. Implement onitemclick and open another webview to load imageUrl.
 2. Design a analytics library for android app as a stand alone sdk.
 3. Design a data structure with search, delete and add with O(1) complexity. You can take my kind of predefined data structure (No space contraints).
+4. Find out the number of node visiable from left view of a tree.
