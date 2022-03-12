@@ -17,6 +17,7 @@ Another use case is reified type parameters, which require you to use inline
 **** Android :
 1. Life cycle of activity with example.
 2. Launch modes in android with practical examples.
+3. When will data survive in case on view model and Saved instance state ? (https://developer.android.com/topic/libraries/architecture/saving-states)
 
 **** Data Structure :
 1. Find a loop in a linked list and remove it.
