@@ -8,7 +8,7 @@ Putting all questions, i ever faced in android app domain.
 2. Abstract vs Interface in java 8
 3. Full vs Partial abstraction 
 4. How many ways one can break the singleton design pattern?
-5. Internal working on HashMap in java 8
+5. Internal working of HashMap in java 8
 6. Relationship between hashcode and equal methods in Map.
 ```
 
@@ -19,8 +19,19 @@ Putting all questions, i ever faced in android app domain.
 3. Sealed classes with examples
 4. Do null check without using ?. or !! or elvish Operator
 5. Any vs Nothing vs Unit
+6. Infix and Extension (Examples)
+7. val vs const
+8. Data class :
+  data class A{
+  }
+  val a = A()
+  val b = a
+  print a == b
+  print b.equal(b)
+  print b === b
+9. lateinit vs lazy
+10. sharedflow vs stateflow
 ```
-
 
 ## Android :
 ```
@@ -122,7 +133,6 @@ Putting all questions, i ever faced in android app domain.
 1. Design a simple list with help of retrofit, recyclerview. Implement onitemclick and open another webview to load imageUrl.
 2. Design a analytics library for android app as a stand alone sdk.
 3. Design a data structure with search, delete and add with O(1) complexity. You can take my kind of predefined data structure (No space contraints).
-4. Find out the number of node visiable from left view of a tree.
-5. Create your own map data structure
-6. Create a music player app (HLD and LLD)
+4. Create your own map data structure
+5. Create a music player app (HLD and LLD)
 ```
