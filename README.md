@@ -3,10 +3,12 @@
 Putting all questions, i ever faced in android app domain.
 
 ## Java :
+```
 1. Access modifiers in java
 2. Abstract vs Interface in java 8
 3. Full vs Parsel abstraction 
 4. 
+```
 
 ## Kotlin :
 1. When to use and not to use inline functions?
@@ -28,26 +30,27 @@ Putting all questions, i ever faced in android app domain.
 9. ViewModel internal working
 10. 
 
-**** Dependency Injection :
+## Dependency Injection :
 1. Scopes in Dagger or Hilt
 2. Difference between field vs method injection. Which is perfer and when ?
 3. Dependency graph.
 
-**** RxJava/RxAndroid :
+## RxJava/RxAndroid :
 1. How to do Async calls in RxJava
 2. Error handeling in Rxjava
 3. RxJava Observable (Fire & Forget)
 
-**** Architectural Concepts :
+## Architectural Concepts :
 1. Difference between MVVM / MVP / MVI (Drawbacks)
 2. What are all layers in MVVM?
 3. 
 
-**** Data Structure :
+## Data Structure :
 1. Find a loop in a linked list and remove it.
 2. Write the logic for Quick Sort.
+3. Left view of a BST.
 
-**** Design :
+## Design :
 1. Design a simple list with help of retrofit, recyclerview. Implement onitemclick and open another webview to load imageUrl.
 2. Design a analytics library for android app as a stand alone sdk.
 3. Design a data structure with search, delete and add with O(1) complexity. You can take my kind of predefined data structure (No space contraints).
