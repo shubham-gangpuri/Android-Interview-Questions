@@ -28,7 +28,7 @@ Putting all questions, i ever faced in android app domain.
   val b = a
   print a == b
   print b.equal(b)
-  print b === b
+  print a === b
 9. lateinit vs lazy
 10. sharedflow vs stateflow
 ```
