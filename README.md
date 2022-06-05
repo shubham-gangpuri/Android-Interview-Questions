@@ -17,7 +17,7 @@ Putting all questions, i ever faced in android app domain.
 1. When to use and not to use inline functions?
 2. Delegation in Koltin
 3. Sealed classes with examples
-4. Do null check with ?. or !! or elvish Operator
+4. Do null check without using ?. or !! or elvish Operator
 5. Any vs Nothing vs Unit
 ```
 
