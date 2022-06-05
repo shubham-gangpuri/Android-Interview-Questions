@@ -1,6 +1,6 @@
 ## Android-Interview-Questions
 
-Jotting down all the android / Koltin / Java questions or topics which I have faced recently during interviews to answer for the android application developer profile -
+Jotting down all the Android / Koltin / Java questions or topics which I have faced recently during interviews to answer for the android application developer profile -
 
 ## Java :
 ```
