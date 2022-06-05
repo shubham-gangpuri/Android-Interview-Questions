@@ -30,7 +30,10 @@ Putting all questions, i ever faced in android app domain.
   print b.equal(b)
   print a === b
 9. lateinit vs lazy
-10. sharedflow vs stateflow
+10. Context switching in coroutines
+12. Parallel api calling with coroutines
+13. What is coroutines context?
+14. sharedflow vs stateflow
 ```
 
 ## Android :
@@ -69,7 +72,6 @@ Putting all questions, i ever faced in android app domain.
 32. DarkTheme implementation 
 33. ViewHolder saving State vs Activity saving state
 34. How to create your own view and viewgroups (methods and need to take care of)
-35. Context switching in coroutines
 ```
 
 ## Dependency Injection :
