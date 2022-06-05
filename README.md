@@ -1,6 +1,6 @@
 ## Android-Interview-Questions
 
-Putting all questions, i ever faced in android app domain.
+Jotting down all the questions or topics which I have faced recently during interviews to answer for the android application developer profile -
 
 ## Java :
 ```
@@ -17,8 +17,8 @@ Putting all questions, i ever faced in android app domain.
 1. When to use and not to use inline functions?
 2. Delegation in Koltin
 3. Sealed classes with examples
-4. Do null check without using ?. or !! or elvish Operator
-5. Any vs Nothing vs Unit
+4. Do null check without using operators - ?. or !! or elvish 
+5. 'Any' vs 'Nothing' vs 'Unit'
 6. Infix and Extension (Examples)
 7. val vs const
 8. Data class :
@@ -31,9 +31,9 @@ Putting all questions, i ever faced in android app domain.
   print a === b
 9. lateinit vs lazy
 10. Context switching in coroutines
-12. Parallel api calling with coroutines
-13. What is coroutines context?
-14. sharedflow vs stateflow
+12. Parallel API calling with co-routines
+13. What is co-routines context?
+14. Sharedflow vs Stateflow
 ```
 
 ## Android :
@@ -42,24 +42,25 @@ Putting all questions, i ever faced in android app domain.
 2. Life cycle of fragment with example.
 3. Launch modes in android with practical examples.
 4. ViewModel lifecycle.
-5. When will data survive in case on view model and Saved instance state ? (https://developer.android.com/topic/libraries/architecture/saving-states)
+5. What Fragment data will survive on view model and on Saved instance state ? 
+(https://developer.android.com/topic/libraries/architecture/saving-states)
 6. SharedViewModel concept 
 7. What is navigation component? How to pass objects between two fragments.
-8. FCM notification is not displaying. What might be the possible cases for this problem?
+8. FCM notification is not displaying; What might be the possible cases for this problem?
 9. What is scoped sortage and how to read/write/delete from it?
-10. ViewModel internal working
-11. Internal working of recycler view
+10. Internal working of ViewModel.
+11. Internal working of recycler view.
 12. Possible cases of memory leaks.
-13. How to handle runtime permissions in android
-14. New way to handle a backpress in android fragments
+13. How to handle runtime permissions in android?
+14. New ways to handle a backpress in android fragments.
 15. What do you mean by safe-arg in android navigation components?
 16. What is ModalBottomSheet in navigation components?
 17. JobScheduler vs WorkManager
-18. How to do communication between notification bar and service?
+18. How to build communication between notification bar and service?
 19. How surface view renders the livestream?
 20. Handler vs HandlerThread vs Threads
 21. How to achieve one launch mode via other launch mode?
-22. In android build process, when proguard is applied?
+22. In android build process, proguard is applied at what stage?
 23. How to find out which fragment is currently opened?
 24. ViewModelStore vs LifeCycleOwner
 25. Disadvantages of constraintLayout
@@ -67,9 +68,9 @@ Putting all questions, i ever faced in android app domain.
 27. MergeAdpater
 28. Room migration (Things need to handle)
 29. What is the issue with LiveData in case of click event handling (SingleLiveData)
-30. How to implement full custom theme in android
-31. Difference between location permissions
-32. DarkTheme implementation 
+30. How to implement full custom theme in android?
+31. Difference between location permissions.
+32. DarkTheme implementation.
 33. ViewHolder saving State vs Activity saving state
 34. How to create your own view and viewgroups (methods and need to take care of)
 ```
@@ -77,7 +78,7 @@ Putting all questions, i ever faced in android app domain.
 ## Dependency Injection :
 ```
 1. Scopes in Dagger or Hilt
-2. Difference between field vs method injection. Which is perfer and when ?
+2. Difference between field and method injection. Which is perferred, when and why?
 3. Dependency graph.
 4. Scope vs Qualifier
 ```
@@ -101,8 +102,8 @@ Putting all questions, i ever faced in android app domain.
 ```
 1. Difference between MVVM / MVP / MVI (Drawbacks)
 2. What are all layers in MVVM?
-3. What are the solid principles (Examples in your android code)
-4. Test-cases for each MVVM layers (Examples)
+3. What are solid principles (Examples in your android code)?
+4. Test-cases for each MVVM layers (Examples).
 ```
 
 ## 3rd Party Libraries :
