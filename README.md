@@ -31,8 +31,8 @@ Jotting down all the questions or topics which I have faced recently during inte
   print a === b
 9. lateinit vs lazy
 10. Context switching in coroutines
-12. Parallel API calling with co-routines
-13. What is co-routines context?
+12. Parallel API calling with coroutines
+13. What is coroutines context?
 14. Sharedflow vs Stateflow
 ```
 
