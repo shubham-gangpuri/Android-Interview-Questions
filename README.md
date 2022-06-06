@@ -116,7 +116,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 6. Mocking a context through Mockito
 7. Write a simple test case to click on a textView.
 8. Spy vs Mocking (Testing)
-9. Have you done or created or managed by CI/CD pipleline for android app development?
+9. Have you done or created or managed any CI/CD pipleline for android app development?
 10. Canary leak library internal working
 11. What is GIT flow?
 12. Git rebase vs merge
