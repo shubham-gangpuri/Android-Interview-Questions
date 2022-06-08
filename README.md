@@ -34,6 +34,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 12. Parallel API calling with coroutines
 13. What is coroutines context?
 14. Sharedflow vs Stateflow
+15. How to cancel a coroutines?
 ```
 
 ## Android :
@@ -73,6 +74,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 32. DarkTheme implementation.
 33. ViewHolder saving State vs Activity saving state
 34. How to create your own view and viewgroups (methods and need to take care of)
+35. How to create a simple alarm functionality with the help of WorkManager?
 ```
 
 ## Dependency Injection :
