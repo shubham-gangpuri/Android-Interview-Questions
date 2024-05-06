@@ -141,4 +141,5 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 3. Design a data structure with search, delete and add with O(1) complexity. You can take my kind of predefined data structure (No space contraints).
 4. Create your own map data structure
 5. Create a music player app (HLD and LLD)
+6. Simple list implemention from API using MVVM + Clean Architecture 
 ```
