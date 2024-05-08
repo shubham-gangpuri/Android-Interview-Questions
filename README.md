@@ -107,6 +107,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 3. What are solid principles (Examples in your android code)?
 4. Test-cases for each MVVM layers (Examples).
 5. What is clean architectural? How to implement it in your android App?
+6. What are the SOLID principles? Give me the examples in your demo project code?
 ```
 
 ## 3rd Party Libraries :
