@@ -108,6 +108,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 4. Test-cases for each MVVM layers (Examples).
 5. What is clean architectural? How to implement it in your android App?
 6. What are the SOLID principles? Give me the examples in your demo project code?
+7. How you can do modularize your android app? What are the benefits and drawbacks?
 ```
 
 ## 3rd Party Libraries :
