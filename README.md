@@ -83,6 +83,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 2. Difference between field and method injection. Which is perferred, when and why?
 3. Dependency graph.
 4. Scope vs Qualifier
+5. What do you understnd by .toml file in android?
 ```
 
 ## RxJava/RxAndroid :
