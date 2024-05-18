@@ -76,6 +76,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 34. How to create your own view and viewgroups (methods and need to take care of)
 35. How to create a simple alarm functionality with the help of WorkManager?
 36. How to handle UI States in compose?
+37. How does memory managment work in compose?
 ```
 
 ## Dependency Injection :
