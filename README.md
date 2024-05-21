@@ -86,6 +86,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 3. Dependency graph.
 4. Scope vs Qualifier
 5. What do you understnd by .toml file in android?
+6. Hilt annotations ?
 ```
 
 ## RxJava/RxAndroid :
