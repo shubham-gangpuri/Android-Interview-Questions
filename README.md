@@ -77,6 +77,7 @@ Jotting down all the Android / Koltin / Java questions or topics which I have fa
 35. How to create a simple alarm functionality with the help of WorkManager?
 36. How to handle UI States in compose?
 37. How does memory managment work in compose?
+38. What logic, you should write in your ViewModels?
 ```
 
 ## Dependency Injection :
